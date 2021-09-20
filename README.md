@@ -40,5 +40,4 @@ If you find this repository useful in your research, please cite the following p
 # License
 The code and models in this repository are licensed under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html) for academic and other non-commercial uses. For commercial use of the code and models, separate commercial licensing is available. Please contact:
 - Brian Y. Lim ( brianlim@comp.nus.edu.sg )
-- Yan Lyu ( dcslyuy@nus.edu.sg )
 - Jonathan Tan ( jonathan_tan@nus.edu.sg )
